@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9d6505b2-9ea8-4d59-8471-8bbc9bd55865": {
+      "ProjectGuid": "9d6505b2-9ea8-4d59-8471-8bbc9bd55865",
+      "DisplayName": "RemoteFileStorage",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
